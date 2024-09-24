@@ -1,0 +1,90 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.header {
+    width: 1440px; 
+    height: 188.19px; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    background-color: #313A89;
+}
+
+.title {
+    width: 1440px;
+    height: 60px;
+    background-color: #C4C4C4;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.title h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    letter-spacing: 5px;
+    color: #005677;
+}
+
+h3 {
+    width: 1440px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: 10px;
+    background-color: #C4C4C4;
+    color:#005677;
+    letter-spacing: 5px;
+}
+
+.datosPersonales {
+    margin-top: 127.81px;
+}
+
+.datosPersonales li {
+    font-family: 'Times New Roman', Times, serif; 
+    margin-bottom: 10px;
+}
+
+.formacionAcademica strong {
+    margin-left: 20px; 
+}
+
+.parrafo2 {
+    margin-left: 100px;    
+    margin-top: -15px;
+}
+
+.experienciaLaboral strong {
+    margin-left: 20px; 
+}
+
+.footer {
+    width: 1440px;
+    height: 37px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #005677;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;  
+    font-size: 20px;
+    margin-top: 150px;
+}
+
+.footer span {
+    width: 145px;
+    height: 17px;
+}
+
+.social-icon {
+    width: 20px;
+    height: 20px;
+}

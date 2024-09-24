@@ -1,0 +1,58 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.rectangle {
+    width: 1920px;      
+    height: 18px;       
+    background-color: #A664FF;
+}
+
+.header {
+    margin-top: 47px;
+    display: flex; 
+    align-items: center; 
+}
+
+.header img {
+    width: 57.87px;
+    height: 57.87px;
+    margin-right: 10px; /* Añade un margen a la derecha de la imagen */
+}
+
+.header p {
+    width: 493px; /* Puedes ajustar este valor si es necesario */
+    font-size: 28.85px;
+    font-weight: 700;
+    line-height: 40.39px;
+    color: #191919;
+    margin: 0; 
+    white-space: nowrap;
+}
+
+.header .underline {
+    text-decoration: underline; /* Esto subraya el texto dentro del span */
+}
+
+
+.duolingo img {
+    width: 1522px;
+    height: 834px;
+}
+
+.texto h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 57.4px;
+    line-height: 73.8px;
+    color: var(--platinum-platinum-950, #020617);
+}
+
+.texto p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 49.2px;
+    line-height: 61.5px;
+    letter-spacing: -0.20499999821186066px;
+    color: var(--platinum-platinum-500, #64748B);
+}
